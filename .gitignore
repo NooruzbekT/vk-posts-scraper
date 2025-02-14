@@ -1,0 +1,31 @@
+
+__pycache__/
+*.py[cod]
+*.so
+*.dll
+*.dylib
+
+
+venv/
+env/
+*.venv
+*.virtualenv
+
+
+*.log
+logs/
+vk_scraper.log
+
+.DS_Store
+Thumbs.db
+
+.vscode/
+.idea/
+*.iml
+
+# Dependency files
+*.lock
+pip-log.txt
+
+# CSV output
+filtered_vk_posts9.csv
