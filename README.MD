@@ -17,7 +17,7 @@ This script collects posts from VK groups using the VK API, processes them, and 
 
 1. **Clone the repository:**  
    ```sh
-   git clone https://github.com/your_username/VK_Scraper.git  
+   git clone https://github.com/NooruzbekT/vk-posts-scraper  
     ```
 2. Create a virtual environment and activate it:
     ```sh
